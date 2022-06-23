@@ -15,7 +15,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://hi.ktsee.eu.org
+url: https://hi.kt41.com
 baseurl: 
 permalink: /:short_year:y_day:hour:minute:output_ext
 
@@ -237,7 +237,7 @@ alipay: /assets/images/pay_alipay.png
 # 友情链接
 links_title: Links
 links:
-  三思屋: https://3sv.ktsee.eu.org/
+  三思屋: https://3sv.kt41.com/
 
 
 # Sidebar Avatar
