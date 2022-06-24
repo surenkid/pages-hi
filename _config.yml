@@ -15,7 +15,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://hi.kt41.com
+url: https://hi.ktsee.net
 baseurl: 
 permalink: /:short_year:y_day:hour:minute:output_ext
 
@@ -33,7 +33,7 @@ paginate: 10
   #paginate_path: "/page:num/"
 
 # Handling Reading
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README.en.md", "vendor"]
 
 # Separator
 #excerpt_separator: <!-- more -->
@@ -237,7 +237,7 @@ alipay: /assets/images/pay_alipay.png
 # 友情链接
 links_title: Links
 links:
-  三思屋: https://3sv.kt41.com/
+  三思屋: https://3sv.ktsee.net/
 
 
 # Sidebar Avatar
