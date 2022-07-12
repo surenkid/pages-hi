@@ -33,7 +33,7 @@ paginate: 10
   #paginate_path: "/page:num/"
 
 # Handling Reading
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README.en.md", "vendor"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README.en.md", "vendor", "baidu_verify_code-UiXtd9A7Ls.html"]
 
 # Separator
 #excerpt_separator: <!-- more -->
