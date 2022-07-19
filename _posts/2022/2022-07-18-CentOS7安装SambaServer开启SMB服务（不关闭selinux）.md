@@ -172,7 +172,7 @@ restorecon -Rv /home/samba/public
 
 ![升腾C30小主机](https://static.ktsee.com/s1/2022/7/19/cljbc4yhtb8w.png)
 
-部署smb服务，还可以用[docker]([dperson/samba - Docker Image | Docker Hub](https://hub.docker.com/r/dperson/samba))来实现，但由于我的机器配置较差，用docker总是出现各种问题，也因此还是使用了CentOS的原生组件。
+部署smb服务，还可以用[docker](https://hub.docker.com/r/dperson/samba)来实现，但由于我的机器配置较差，用docker总是出现各种问题，也因此还是使用了CentOS的原生组件。
 
 
 
