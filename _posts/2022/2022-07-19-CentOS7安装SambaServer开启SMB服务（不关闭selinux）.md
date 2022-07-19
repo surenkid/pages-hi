@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CentOS7 安装Samba Server，开启SMB服务（不关闭selinux）
-date: 2022-07-19 11:26:00
+date: 2022-07-18 11:26:00
 category: 服务器运维
 permalink: /803.html
 tags:
