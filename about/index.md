@@ -24,7 +24,7 @@ title: 关于
 | DNS 解析 | DNSPod        | 无           |
 | CDN      | 百度云加速    | 静态资源加速 |
 
-博客的副标题就选用了乔布斯说的那句：**Stay hungry,Stay foolish**，我很喜欢，也希望能勉励自己不断学习。
+博客的副标题选用了乔布斯说的：**Stay hungry,Stay foolish**，我很喜欢这句话，也希望能勉励自己不断学习。
 
 ---
 
@@ -42,3 +42,6 @@ title: 关于
 - 2010年1月注册域名ktsee.com
 - 2006年9月创建[三思屋](https://web.archive.org/web/20070208022838/http://3sv.net/)
 - 2005年注册域名3sv.net
+
+## 联系方式
+Email: [hi@public.ktsee.com](mailto:hi@public.ktsee.com)
