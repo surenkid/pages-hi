@@ -1,6 +1,7 @@
 ---
 layout: page
 type: about
+title: 关于
 ---
 
 ## 关于自己
