@@ -7,8 +7,8 @@ type: about
 
 建站过程中曾经接触过大大小小不同的各类建站程序，包括Discuz,phpwind,织梦，帝国，bo-blog，wordpress等，如今保留的网址仅剩下这几个：
 
- - 三思屋社区 [https://3sv.ktsee.net][https://3sv.ktsee.net] 
- - 这个博客 [https://hi.ktsee.net][https://hi.ktsee.net]
+ - 三思屋社区 (https://3sv.ktsee.net)[https://3sv.ktsee.net] 
+ - 这个博客 (https://hi.ktsee.net)[https://hi.ktsee.net]
 
 建立这个博客，最主要的想法就为了记录一些技术文字。读过《奇特的一生》的朋友可能了解，柳比歇夫最热衷的除了对时间的详尽记录之外，恐怕就是研究时详尽的笔记和不透彻理解不罢休的态度。这是他取得如此成就重要的一点。我个人也希望自己能通过在这个博客里记录技术上的问题，对所遇到的问题有透彻的了解，在此勉励自己不断学习，不断进步。
 
