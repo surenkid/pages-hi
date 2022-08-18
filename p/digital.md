@@ -64,7 +64,7 @@ title: 数码清单
 | 名称                | 配置                     | 系统         | 备注                     |
 | ------------------- | ------------------------ | ------------ | ------------------------ |
 | Redmi K30 Pro变焦版 | 骁龙865+8G RAM+256G ROM  | MIUI 12.5.7  | 主力机，拍照，电话，微信 |
-| Redmi Note10 Pro    | 天玑1100+6G RAM+128G ROM | MIUI 12.5.16 | 备用机，娱乐，购物       |
+| iPhone XR           | A12+3G RAM+256G ROM | iOS 15.6 | 备用机，娱乐，购物       |
 | iPad mini 2         | A7+1G RAM+16G ROM        | iOS 10.3.3   | 娱乐机，看视频           |
 | Mi 4C               | 骁龙808+2G RAM+16G ROM   | MIUI         | 闲置                     |
 | Redmi 4X            | 骁龙435+2G RAM+16G ROM   | MIUI         | 闲置                     |
