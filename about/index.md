@@ -44,4 +44,4 @@ title: 关于
 - 2005年注册域名3sv.net
 
 ## 联系方式
-Email: [hi@public.ktsee.com](mailto:hi@public.ktsee.com)
+Email: [hi@ktsee.net](mailto:hi@ktsee.net)
